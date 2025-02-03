@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "customer_id": 101,
+      "first_name": "John",
+      "last_name": "Doe",
+      "dob": "1985-06-15",
+      "email": "john.doe@example.com",
+      "phone_number": "+1234567890",
+      "address": "123 Main St, New York, NY",
+      "created_at": "2023-01-10T12:30:00Z"
+    },
+    {
+      "customer_id": 102,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "dob": "1990-09-25",
+      "email": "jane.smith@example.com",
+      "phone_number": "+9876543210",
+      "address": "456 Oak St, Los Angeles, CA",
+      "created_at": "2023-02-15T14:45:00Z"
+    }
+  ]
+}
